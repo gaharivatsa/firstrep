@@ -1,1 +1,1 @@
-print("Hello github ppsdasd")
+print("Hello github")
